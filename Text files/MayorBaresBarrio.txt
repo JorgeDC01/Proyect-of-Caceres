@@ -1,0 +1,52 @@
+100 Montaditos - pax 50 - SI - TAPAS
+Alborada - pax 35 - SI - MEDITERRÁNEA
+AlcaraVán Gastroteca - pax 60 - SI - MEDITERRÁNEA
+Amara - pax 25 - NO - 
+Aquario - pax 150 - SI - MEDITERRÁNEA
+Bariloche - pax 25 - SI - TAPAS
+Belmont Lounge Bar - pax 20 - SI - TAPAS
+Bodeguilla - pax 30 - SI - TAPAS
+Burger King 1 - pax 80 - SI - BURGUER
+Cameron - pax 150 - NO - 
+Cauria - pax 30 - SI - TAPAS
+Chocolatería Valor - pax 40 - SI - 
+Dallas Brunch - pax 25 - SI - TAPAS
+El Fogon de Toñi - pax 30 - SI - MEDITERRÁNEA
+El Gran Café - pax 48 - SI - TAPAS
+El Nuevo Mesón - pax 40 - SI - TAPAS
+Foster's Hollywood - pax 30 - SI - AMERICANA
+Fulgen Tradicion - pax 25 - SI - TAPAS
+Garden's - pax 35 - NO - 
+Ginos - pax 50 - SI - ITALIANA
+Gran Via - pax 40 - SI - MEDITERRÁNEA
+Karaoke DI-ALF - pax 70 - NO - 
+Kiosco Colón - pax 30 - NO - 
+La Andaluza - pax 30 - SI - TAPAS
+La Cafetera - pax 25 - SI - TAPAS
+La Mafia se sienta a la mesa  - pax 60 - SI - ITALIANA
+La Malinche - pax 30 - SI - MEJICANA
+La Marina - pax 35 - SI - TAPAS
+La Parisina - pax 30 - SI - PANADERÍA
+La Taberna de Santi - pax 16 - SI - TAPAS
+La Tagliatella - pax 100 - SI - ITALIANA
+Lalola - pax 30 - SI - TAPAS
+Liceo - pax 50 - SI - MEDITERRÁNEA
+Los Andares - pax 40 - SI - TAPAS
+Manolo Bakes - pax 20 - SI - PANADERÍA
+Manómetro - pax 40 - SI - TAPAS
+Mario & Marieta - pax 43 - SI - MEDITERRÁNEA
+Mordisquitos - pax 40 - SI - BURGUER
+Más Que Tapas - pax 35 - SI - TAPAS
+Oquendo - pax 60 - SI - MEDITERRÁNEA
+Orense - pax 48 - SI - MEDITERRÁNEA
+Palacio Imperial - pax 70 - SI - CHINA
+Sibuya Urban Sushibar - pax 50 - SI - JAPONESA
+Tony's bocatas - pax 30 - SI - BOCADILLO
+Viceversa - pax 25 - SI - TAPAS
+Viña Grande - pax 30 - SI - TAPAS
+Volapie - pax 30 - SI - TAPAS
+Vulcano - pax 45 - SI - TAPAS
+WyCo - pax 40 - SI - BOCADILLO
+Zeppelin - pax 42 - SI - TAPAS
+Zeri’s Coffee Roaster - pax 40 - SI - TAPAS
+Numero de bares: 51

@@ -1,0 +1,9 @@
+Cambalache, 60, NO, 
+Capitán Haddock , 100, NO, 
+El Pequeño Gin, 20, NO, 
+La Caballeriza, 70, NO, 
+La Habana, 50, NO, 
+Mistura, 80, NO, 
+Tapería Santisteban, 90, SI, TAPAS
+Trinidad, 35, SI, TAPAS
+Numero de bares que pasan por dicha via: 8

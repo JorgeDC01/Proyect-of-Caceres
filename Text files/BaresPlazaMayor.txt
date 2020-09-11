@@ -1,0 +1,20 @@
+Carlos V, 60, SI, MEDITERRÁNEA
+Casa Don Fernando, 40, SI, MEDITERRÁNEA
+El Encinar, 110, SI, TAPAS
+El Mariscal, 30, SI, TAPAS
+El Pato, 40, SI, TAPAS
+El Requeté, 60, SI, MEDITERRÁNEA
+El Rincon, 40, SI, MEDITERRÁNEA
+Esencia, 45, SI, TAPAS
+Farmacia Legend, 40, NO, 
+La Estancia, 50, SI, TAPAS
+La Majá, 45, SI, TAPAS
+La Minerva, 70, SI, MEDITERRÁNEA
+La Teteria (Hotel la Bohême), 20, SI, 
+La Tula, 30, SI, MEDITERRÁNEA
+Los Arcos, 28, SI, TAPAS
+Los Portales, 40, SI, TAPAS
+Pro-va-lo, 45, SI, MEDITERRÁNEA
+Tal cual, 35, SI, TAPAS
+Telepizza, 60, SI, ITALIANA
+Numero de bares que pasan por dicha via: 19

@@ -1,0 +1,299 @@
+Zeri’s Coffee Roaster, 40, SI, TAPAS
+Zeppelin, 42, SI, TAPAS
+Zany, 40, NO, 
+Zalacain, 30, SI, TAPAS
+ZRRCUS, 400, NO, 
+Yuste (Hotel NH Palacio de Oquendo), 60, SI, MEDITERRÁNEA
+WyCo, 40, SI, BOCADILLO
+Vulcano, 45, SI, TAPAS
+Volapie, 30, SI, TAPAS
+Viña Grande, 30, SI, TAPAS
+Vilches, 40, SI, TAPAS
+Viceversa, 25, SI, TAPAS
+Versalles, 20, NO, 
+Velequile Gastromanía, 35, SI, MEDITERRÁNEA
+Vadepizza, 40, SI, ITALIANA
+VELVET, 200, NO, 
+Tápara, 40, SI, TAPAS
+Tu Co-Zina, 20, SI, MEDITERRÁNEA
+Triple 20, 50, SI, TAPAS
+Trinidad, 35, SI, TAPAS
+Torre de Sande, 60, SI, MEDITERRÁNEA
+Tony's bocatas, 30, SI, BOCADILLO
+The Blue Corner Irish, 50, NO, 
+Temis 2.0, 60, SI, MEDITERRÁNEA
+Telepizza, 60, SI, ITALIANA
+Tapería Santisteban, 90, SI, TAPAS
+Tal cual, 35, SI, TAPAS
+Taberna del Refugio, 55, SI, TAPAS
+Sueños de Rock, 40, NO, 
+Sir Lancelot, 20, NO, 
+Singapur, 55, SI, CHINA
+Sibuya Urban Sushibar, 50, SI, JAPONESA
+Servicio al Viajero, 40, SI, TAPAS
+Sanvi Bar, 40, SI, TAPAS
+Santiesteban, 30, SI, TAPAS
+Santa Marta, 40, SI, TAPAS
+San Juan, 60, SI, MEDITERRÁNEA
+Salas, 40, SI, TAPAS
+Sala Barroco, 100, NO, 
+Sal y Pimienta, 80, SI, MEDITERRÁNEA
+Romero, 25, NO, 
+Rita, 90, NO, 
+Rincon De Europa, 25, SI, TAPAS
+Quereles, 40, SI, TAPAS
+Que cocine Pepe, 30, SI, MEDITERRÁNEA
+Puerta de Mérida, 17, SI, MEDITERRÁNEA
+Pub 33, 70, NO, 
+Psicopompo, 30, NO, 
+Pro-va-lo, 45, SI, MEDITERRÁNEA
+Potosí Vinoteca, 35, SI, TAPAS
+Potosí, 45, SI, TAPAS
+Poppy , 35, SI, TAPAS
+Plata Domínguez, 40, SI, TAPAS
+Pizzería Teleremo, 40, SI, ITALIANA
+Pizzería Bartolo, 40, SI, ITALIANA
+Pizza Móvil, 30, SI, ITALIANA
+Piccola Italia Ristorante Pizzeria, 25, SI, ITALIANA
+Perhaps, 40, SI, TAPAS
+Pekin, 90, SI, CHINA
+Pasadena, 60, SI, AMERICANA
+Paris Doner Kebab, 15, SI, KEBAB
+Parador de Cáceres, 90, SI, MEDITERRÁNEA
+Pans & Company, 50, SI, BOCADILLO
+Palacio Imperial, 70, SI, CHINA
+Oxígeno, 100, NO, 
+Ornella, 40, SI, TAPAS
+Orense, 48, SI, MEDITERRÁNEA
+Orellana, 80, SI, MEDITERRÁNEA
+Oquendo, 60, SI, MEDITERRÁNEA
+Only One, 40, SI, BOCADILLO
+Nuevo Rialto, 25, SI, TAPAS
+Nuevo Cáceres, 40, NO, 
+Nieves, 25, NO, 
+New Golden, 40, SI, BURGUER
+Neptuno , 70, SI, TAPAS
+Nebbia, 25, NO, 
+Más Que Tapas, 35, SI, TAPAS
+Más Cachito, 16, SI, TAPAS
+Mordisquitos, 40, SI, BURGUER
+Montesol, 40, SI, TAPAS
+Monterrey, 35, SI, TAPAS
+Montebianco, 15, SI, HELADERÍA
+Monroy, 30, SI, TAPAS
+Mistura, 80, NO, 
+Micro, 50, NO, 
+Mesón del Jamón , 36, SI, TAPAS
+Medas La Estación, 28, SI, TAPAS
+McDonald's, 185, SI, BURGUER
+Mastropiero, 80, SI, TAPAS
+Martina, 40, NO, 
+Mario & Marieta, 43, SI, MEDITERRÁNEA
+Maria Mandiles, 60, NO, MEDITERRÁNEA
+Manómetro, 40, SI, TAPAS
+Manolo Bakes, 20, SI, PANADERÍA
+Mandía, 50, SI, TAPAS
+Makao, 40, NO, 
+Maillard, 55, SI, TAPAS
+Madruelo, 40, SI, MEDITERRÁNEA
+MAWHI, 90, NO, 
+L´avenir, 40, SI, 
+Los Siete Jardines, 80, NO, 
+Los Pájaros , 28, NO, 
+Los Portales, 40, SI, TAPAS
+Los Ibéricos, 40, SI, MEDITERRÁNEA
+Los Golfines, 150, SI, MEDITERRÁNEA
+Los Galayos, 30, SI, TAPAS
+Los Baldíos, 55, SI, TAPAS
+Los Arcos, 28, SI, TAPAS
+Los Andares, 40, SI, TAPAS
+Los 80, 80, NO, 
+Londres, 40, SI, TAPAS
+Lo Nuestro, 25, SI, TAPAS
+Lizarrán 2, 30, SI, TAPAS
+Lizarrán 1, 40, SI, TAPAS
+Lisboa, 25, NO, 
+Liceo, 50, SI, MEDITERRÁNEA
+Leoncio, 20, SI, TAPAS
+Las Macetas , 40, SI, TAPAS
+Las Claras, 30, NO, 
+Las Cancelas, 40, SI, TAPAS
+Lambretta, 50, NO, 
+Lalola, 30, SI, TAPAS
+La comarca, 40, SI, TAPAS
+La casa del goloso, 40, SI, 
+La Ventana, 45, NO, 
+La Tía Tula, 50, SI, MEDITERRÁNEA
+La Tula, 30, SI, MEDITERRÁNEA
+La Traviata, 55, NO, 
+La Tetería, 20, NO, 
+La Teteria (Hotel la Bohême), 20, SI, 
+La Tertulia, 35, SI, TAPAS
+La Terraza del Príncipe, 40, SI, TAPAS
+La Tapería, 40, SI, TAPAS
+La Tagliatella, 100, SI, ITALIANA
+La Taberna de Santi, 16, SI, TAPAS
+La Sureña, 25, SI, TAPAS
+La Regenta, 35, NO, 
+La Pulperia de Toño, 35, SI, TAPAS
+La Parisina, 30, SI, PANADERÍA
+La Paloma, 35, NO, 
+La Morocha , 22, SI, MEDITERRÁNEA
+La Minerva, 70, SI, MEDITERRÁNEA
+La Matilda Taberna CB, 30, SI, TAPAS
+La Marina, 35, SI, TAPAS
+La Maltraviesa, 45, SI, MEDITERRÁNEA
+La Malinche, 30, SI, MEJICANA
+La Majá, 45, SI, TAPAS
+La Mafia se sienta a la mesa , 60, SI, ITALIANA
+La Lavanderia Street Food, 35, SI, AMERICANA
+La Habana, 50, NO, 
+La Fontana, 50, NO, 
+La Estancia, 50, SI, TAPAS
+La Esencia Extremeña, 30, SI, TAPAS
+La Dehesa, 40, SI, TAPAS
+La Chicha, 40, SI, TAPAS
+La Casa del Poeta, 25, SI, TAPAS
+La Cafetera, 25, SI, TAPAS
+La Cacharrería, 70, SI, TAPAS
+La Caballeriza, 70, NO, 
+La Andaluza, 30, SI, TAPAS
+Kiosco Colón, 30, NO, 
+Karaoke Guateque, 100, NO, 
+Karaoke DI-ALF, 70, NO, 
+José Luis, 60, SI, MEDITERRÁNEA
+Jose Marquez, 40, SI, 
+Jonā, 45, NO, 
+Javier Martín, 80, SI, MEDITERRÁNEA
+Jardín de Ulloa, 50, SI, MEDITERRÁNEA
+Ivanhoe 3.0, 200, NO, 
+Hugore, 40, SI, 
+Hot Doner Kebab, 10, SI, KEBAB
+Hospital San Pedro de Alcántara, 80, SI, MEDITERRÁNEA
+Hornos 25, 45, SI, MEDITERRÁNEA
+Homarus, 60, SI, MEDITERRÁNEA
+Havoc, 30, SI, TAPAS
+Granier, 20, SI, PANADERÍA
+Gran Via, 40, SI, MEDITERRÁNEA
+Globo, 90, SI, MEDITERRÁNEA
+Ginos, 50, SI, ITALIANA
+Gastro Bar Bontá, 30, SI, TAPAS
+Garden's, 35, NO, 
+Fulgen Tradicion, 25, SI, TAPAS
+Foster's Hollywood, 30, SI, AMERICANA
+Foodie, 15, SI, AMERICANA
+Flores, 20, SI, TAPAS
+Farmacia Legend, 40, NO, 
+FanBar, 55, SI, TAPAS
+Ezponda 10, 25, SI, TAPAS
+Eustaquio Blanco, 80, SI, MEDITERRÁNEA
+Esencia, 45, SI, TAPAS
+En Cuchara de Plata, 20, SI, TAPAS
+En Ca Rosi, 25, SI, TAPAS
+Emi, 20, SI, TAPAS
+Emeritus, 40, SI, TAPAS
+El Ultimo Café, 20, SI, TAPAS
+El Tinglao deAlba, 40, SI, MEDITERRÁNEA
+El Señor De La Dehesa, 25, SI, TAPAS
+El Rincón de Julio, 30, SI, MEDITERRÁNEA
+El Rincón Burger Perú, 25, SI, BURGUER
+El Rinconcito, 35, SI, TAPAS
+El Rincon, 40, SI, MEDITERRÁNEA
+El Requeté, 60, SI, MEDITERRÁNEA
+El Pirata Bar, 50, SI, TAPAS
+El Pequeño Gin, 20, NO, 
+El Pato, 40, SI, TAPAS
+El Patio, 35, SI, TAPAS
+El Paso, 35, SI, TAPAS
+El Olivar , 45, SI, TAPAS
+El Nuevo Mesón, 40, SI, TAPAS
+El Niño, 35, SI, TAPAS
+El Montaito 2, 50, SI, TAPAS
+El Montaito 1, 60, SI, TAPAS
+El Mirador de Galarza, 80, SI, MEDITERRÁNEA
+El Mariscal, 30, SI, TAPAS
+El Lago, 35, SI, TAPAS
+El Halcón Milenario Drinks & Games, 50, NO, 
+El Gran Café, 48, SI, TAPAS
+El Fogon de Toñi, 30, SI, MEDITERRÁNEA
+El Figón de Eustaquio, 100, SI, MEDITERRÁNEA
+El Encinar, 110, SI, TAPAS
+El Corral de las Cigüeñas, 62, NO, 
+El Bujio, 25, SI, TAPAS
+El 13 de San Antón , 45, SI, MEDITERRÁNEA
+Eden, 35, NO, 
+Doña Jimena, 20, SI, TAPAS
+Dory's, 55, SI, TAPAS
+Doner Kebab Al-turk, 40, SI, KEBAB
+Donde Martín, 35, SI, TAPAS
+Domino's Pizza, 28, SI, ITALIANA
+Dipas, 25, SI, TAPAS
+Dino Burger, 20, SI, BURGUER
+Dallas Brunch, 25, SI, TAPAS
+DIO, 35, NO, 
+Cuatro. J, 25, SI, MEDITERRÁNEA
+Corregidor, 50, SI, MEDITERRÁNEA
+Ciudad Deportiva , 60, SI, TAPAS
+Chocolatería Valor, 40, SI, 
+Chocolat's, 40, SI, 
+Chino Oriente, 80, SI, CHINA
+Chef Pan, 30, SI, TAPAS
+Charlotte, 40, SI, TAPAS
+Centro de Servicios al Transporte (I.T.V.), 48, SI, TAPAS
+Centro, 30, SI, TAPAS
+Cauria, 30, SI, TAPAS
+Cataleya, 40, SI, TAPAS
+Casa Mijhaeli, 20, SI, MEDITERRÁNEA
+Casa Don Fernando, 40, SI, MEDITERRÁNEA
+Casa Diego, 40, SI, MEDITERRÁNEA
+Carpe Diem, 60, NO, 
+Carlos V, 60, SI, MEDITERRÁNEA
+Carey, 40, SI, TAPAS
+Capricho Habanero, 20, SI, TAPAS
+Capitán Haddock , 100, NO, 
+Cameron, 150, NO, 
+Camelot Cafés y Tapas, 40, SI, TAPAS
+Cambalache, 60, NO, 
+Burgos, 45, NO, 
+Burger King 3, 50, SI, BURGUER
+Burger King 2, 100, SI, BURGUER
+Burger King 1, 80, SI, BURGUER
+Bulevar, 40, NO, 
+Buddha Tapas&Copas, 40, SI, TAPAS
+Bouquet, 35, SI, TAPAS
+Boogaloo, 50, NO, 
+Bohemia, 20, NO, 
+Bodeguilla, 30, SI, TAPAS
+Big House 2, 50, SI, CHINA
+Big House 1, 90, SI, CHINA
+Beluga, 40, SI, TAPAS
+Belmont Lounge Bar, 20, SI, TAPAS
+Bebe y Come, 45, SI, TAPAS
+Bariloche, 25, SI, TAPAS
+Baco, 40, SI, TAPAS
+BOS, 40, SI, MEDITERRÁNEA
+B-nomio , 50, SI, MEDITERRÁNEA
+Azafran, 45, SI, MEDITERRÁNEA
+Atrio, 60, SI, MEDITERRÁNEA
+Atico Club-Ático Chillout, 40, NO, 
+Asador La Tahona, 78, SI, MEDITERRÁNEA
+Armando's, 35, SI, TAPAS
+Aquario, 150, SI, MEDITERRÁNEA
+Antojerias, 40, SI, MEDITERRÁNEA
+Amara, 25, NO, 
+Alma del Sabor, 35, SI, TAPAS
+Aljibe, 35, SI, MEDITERRÁNEA
+Alfonso IX (Hotel), 40, SI, MEDITERRÁNEA
+Aldana, 40, SI, MEDITERRÁNEA
+Alcazaba, 26, SI, TAPAS
+AlcaraVán Gastroteca, 60, SI, MEDITERRÁNEA
+Alboroque, 25, SI, TAPAS
+Alborada, 35, SI, MEDITERRÁNEA
+AlBalat, 80, SI, MEDITERRÁNEA
+Al-Andalus 2, 60, SI, TAPAS
+Al-Andalus 1, 40, SI, TAPAS
+Africa, 30, SI, TAPAS
+Adarve, 30, SI, MEDITERRÁNEA
+Abaceria de Juan, 40, SI, MEDITERRÁNEA
+8º Arte, 35, SI, TAPAS
+100 Montaditos, 50, SI, TAPAS
