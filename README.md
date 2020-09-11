@@ -21,4 +21,4 @@
   </uL>
   
   <h2> Text files </h2>
-  <p> Click on text files folder to confirm the proper functioning of the Algorithms which build new text files. If you have any <strong>issue</strong> with  Eclipse's proyect , please get in touch with me.  </p>
+  <p> Click on text files folder to confirm the proper functioning of the Algorithms which build new text files. This folder isn't neccesary to run the proyect, so that you can avoid it. If you have any <strong>issue</strong> with  Eclipse's proyect , please get in touch with me.  </p>
